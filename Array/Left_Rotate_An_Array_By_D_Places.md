@@ -22,7 +22,7 @@
 
 ## Code
 
-```
+```java
 
 static int[] rotate(int[] arr, int d){
     arr = reverse(arr, 0, d-1);
