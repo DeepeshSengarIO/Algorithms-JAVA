@@ -1,15 +1,3 @@
 # Stack Data Structure
 
-It is like a open lid container
-Follow FIFO (First in First Out)
-
-## Basic Operations
-
-    push()    - Insertion Operation
-    pop()     - Deletion Operation
-    isEmpty() - checks if stack is empty
-    peek()    - returns top of the stack
-    size()    - returns size of the stack
-
-Underflow - When pop() or peek() is called on an empty stack
-overflow - when push called on a full stack
+[1. Array vs ArrayList Implementation of Stack and Introduction in Java by @DeepeshSengar](https://sengardeepesh.medium.com/array-vs-arraylist-implementation-of-stack-in-java-124b01ec5451)
