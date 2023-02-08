@@ -1,0 +1,82 @@
+2023.02.08 15:29:34 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/.metals/lsp.trace.json or /Users/bhintatta/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.08 15:29:34 INFO  logging to file /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/.metals/metals.log
+2023.02.08 15:29:34 INFO  Started: Metals version 0.11.10 in workspace '/Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/bhintatta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.08 15:29:35 INFO  time: initialize in 0.82s
+2023.02.08 15:29:36 WARN  Build server is not auto-connectable.
+2023.02.08 15:29:36 WARN  no build tool detected in workspace '/Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.08 15:29:36 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/Quick-Find.java
+2023.02.08 15:30:22 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/Quick-Find.java
+2023.02.08 15:30:22 WARN  Running javac-semanticdb failed for file:///Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/Quick-Find.java. Output:
+/Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/Quick-Find.java:1: error: illegal character: '`'
+class `Quick-Find` {
+      ^
+/Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/Quick-Find.java:1: error: illegal character: '`'
+class `Quick-Find` {
+                 ^
+2 errors
+2023.02.08 15:30:39 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+2023.02.08 15:30:40 WARN  Running javac-semanticdb failed for file:///Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java. Output:
+/Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java:1: error: illegal character: '`'
+class `Quick-Find` {
+      ^
+/Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java:1: error: illegal character: '`'
+class `Quick-Find` {
+                 ^
+2 errors
+Feb 08, 2023 3:31:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+2023.02.08 16:04:49 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+2023.02.08 16:05:26 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+2023.02.08 16:06:08 INFO  shutting down Metals
+2023.02.08 16:06:17 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/.metals/lsp.trace.json or /Users/bhintatta/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.02.08 16:06:18 INFO  logging to file /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/.metals/metals.log
+2023.02.08 16:06:18 INFO  Started: Metals version 0.11.10 in workspace '/Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/bhintatta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.08 16:06:19 INFO  time: initialize in 1.49s
+2023.02.08 16:06:22 WARN  Build server is not auto-connectable.
+2023.02.08 16:06:22 WARN  no build tool detected in workspace '/Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.02.08 16:06:22 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+Feb 08, 2023 4:06:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Feb 08, 2023 4:06:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Feb 08, 2023 4:06:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2023.02.08 16:06:24 INFO  time: code lens generation in 1.9s
+2023.02.08 16:06:24 INFO  time: code lens generation in 1.64s
+2023.02.08 16:07:59 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+Feb 08, 2023 5:18:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Feb 08, 2023 5:18:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.08 17:42:14 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+2023.02.08 17:49:18 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+Feb 08, 2023 5:51:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1193
+2023.02.08 17:51:48 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+2023.02.08 18:05:52 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+2023.02.08 18:07:28 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+2023.02.08 18:07:41 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+2023.02.08 18:10:12 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickFind.java
+2023.02.08 18:17:24 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickUnion.java
+2023.02.08 18:17:26 INFO  time: code lens generation in 1.39s
+2023.02.08 18:17:26 INFO  time: code lens generation in 1.85s
+Feb 08, 2023 6:18:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1750
+Feb 08, 2023 6:20:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1930
+2023.02.08 18:42:49 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickUnion.java
+Feb 08, 2023 7:20:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2274
+2023.02.08 19:20:15 WARN  no build target for: /Users/bhintatta/Documents/GitHub/Algorithms-JAVA/Algorithms-Princeton/Union-Find/QuickUnion.java
